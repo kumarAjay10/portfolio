@@ -18,10 +18,10 @@ const Projects = ()=>{
                            FOod Delivery App
                            </span>
                             <div className="pt-8 text-center">
-                                <a href="" target="_blank" >
+                                <a href="https://food-delivery-app-livid-pi.vercel.app/" target="_blank" >
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                                 </a>
-                                <a href="" target="_blank">
+                                <a href="https://github.com/kumarAjay10/Food-delivery-App" target="_blank">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                                 </a>
                                
