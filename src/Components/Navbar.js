@@ -26,6 +26,7 @@ const Navbar = () => {
           src={LOGO_URL}
           alt="logo-img"
           style={{ width: "50px" }}
+          className="img"
         />
       </div>
       {/* menu */}
