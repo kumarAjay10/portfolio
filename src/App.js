@@ -5,7 +5,6 @@ import Skills from "./Components/Skills";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
 
-// hi hello 
 
 function App() {
   return (
